@@ -2,6 +2,6 @@
 store sem-2 project
 <?php
 
-echo "ygfyjdihe";
+echo "after change";
 
 ?>
